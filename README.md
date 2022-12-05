@@ -18,7 +18,8 @@ El proyecto cuenta con un pequeño e-commerce para poder comprar artículos bás
 Tecnologias usadas: JavaScript , React , Redux , Node.js , Express , CSS , PostgreSQL , Sequelize , GitHub , Trello .
 
 
-### Pokémon PI :pokemon:
+### Pokémon PI  ![6644-pikachurun](https://user-images.githubusercontent.com/107566606/205767364-3598e585-48df-4ccf-8fa2-ad0858f339cc.gif)
+
 Pokémon PI es una Single Page Application desarrollada en el bootcamp de Henry en la etapa de Proyecto Individual, en la cual se pueden ver los primeros 40 pokemones que trae una Pokémon API, se pueden buscar por nombre, filtrarlos , ordenarlos y crearlos.
 Tecnologias usadas: JavaScript , React , Redux , Node.js , Express , CSS , PostgreSQL.
 
