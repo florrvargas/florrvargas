@@ -1,9 +1,12 @@
-### Hi there 👋
+### Hola, soy Flor! 👋
 
 ![gif overview (1) (1) (1)](https://user-images.githubusercontent.com/107566606/205762380-bfa1c579-e200-4426-aea0-6e5c320dee62.gif)
 
+Me propongo adaptarme a las necesidades de evolución e innovación constante del mercado laboral e incrementar la productividad en la organización donde me desenvuelva como profesional.
+Me agradan los grandes desafíos y los emprendo con pasión, compromiso y determinación.
+Me interesa mucho, tanto en el BackEnd como en el FrontEnd, pero me destaco mejor en el FrontEnd porque me encanta diseñar, darle vida a los proyectos y hacer que los usuarios se sientan cómodos navegando a través de las páginas.
 
-
+Para ver mi trabajo continua bajando 👇👇👇
 <!--
 **florrvargas/florrvargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
