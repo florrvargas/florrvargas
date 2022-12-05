@@ -2,9 +2,12 @@
 
 ![gif overview (1) (1) (1)](https://user-images.githubusercontent.com/107566606/205762380-bfa1c579-e200-4426-aea0-6e5c320dee62.gif)
 
-Me propongo adaptarme a las necesidades de evolución e innovación constante del mercado laboral e incrementar la productividad en la organización donde me desenvuelva como profesional.
-Me agradan los grandes desafíos y los emprendo con pasión, compromiso y determinación.
+Me propongo adaptarme a las necesidades de evolución e innovación constante del mercado laboral e incrementar la productividad en la organización donde me desenvuelva como profesional. <br>
+Me agradan los grandes desafíos y los emprendo con pasión, compromiso y determinación.<br>
 Me interesa mucho, tanto en el BackEnd como en el FrontEnd, pero me destaco mejor en el FrontEnd porque me encanta diseñar, darle vida a los proyectos y hacer que los usuarios se sientan cómodos navegando a través de las páginas.
+
+## Lenguajes y herramientas
+![langujes&tools](https://user-images.githubusercontent.com/76783198/182465347-06d45139-1931-4a88-b81a-a6861070c02a.svg)
 
 Para ver mi trabajo continua bajando 👇👇👇
 <!--
