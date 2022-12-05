@@ -1,4 +1,4 @@
-# **Hola, soy Flor! 👋
+# Hola, soy Flor! 👋
 
 ![gif overview (1) (1) (1)](https://user-images.githubusercontent.com/107566606/205762380-bfa1c579-e200-4426-aea0-6e5c320dee62.gif)
 
