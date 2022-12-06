@@ -17,7 +17,7 @@ usuario poder adoptarlos según sus necesidades, ya sea por tamaño, edad o raza
 El proyecto cuenta con un pequeño e-commerce para poder comprar artículos básicos para mascotas, un login en donde los usuarios se podran registrar para hacer compras o adoptar, un perfil de admin, donde se pueden ver las ventas realizadas, agregar, editar, borrar productos, usuarios o mascotas.
 Tecnologias usadas: JavaScript , React , Redux , Node.js , Express , CSS , PostgreSQL , Sequelize , GitHub , Trello .
 
-![image](https://user-images.githubusercontent.com/107566606/205778315-156d5485-4f58-4dd6-8384-6ad5e5d46ea2.png)
+![image](https://user-images.githubusercontent.com/107566606/205778315-156d5485-4f58-4dd6-8384-6ad5e5d46ea2.png)width="50%" height="50%"
 
 ![image (1)](https://user-images.githubusercontent.com/107566606/205778329-3f1861a8-4a0a-4433-841c-69c56419a426.png)
 
