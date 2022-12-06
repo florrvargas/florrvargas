@@ -27,11 +27,16 @@ Tecnologias usadas: JavaScript , React , Redux , Node.js , Express , CSS , Postg
 
 
 
-
 ### Pokémon PI  ![6644-pikachurun](https://user-images.githubusercontent.com/107566606/205767364-3598e585-48df-4ccf-8fa2-ad0858f339cc.gif)
 
 Pokémon PI es una Single Page Application desarrollada en el bootcamp de Henry en la etapa de Proyecto Individual, en la cual se pueden ver los primeros 40 pokemones que trae una Pokémon API, se pueden buscar por nombre, filtrarlos , ordenarlos y crearlos.
 Tecnologias usadas: JavaScript , React , Redux , Node.js , Express , CSS , PostgreSQL.
+
+<img src="https://user-images.githubusercontent.com/107566606/205784861-18ae6fd0-468d-4571-a1cc-a6fa8383fcc2.png" width="40%" height="40%"  />
+<img src="https://user-images.githubusercontent.com/107566606/205784869-75b7b203-b853-491d-92e7-fb542f289cbb.png" width="40%" height="40%"  />
+<img src="https://user-images.githubusercontent.com/107566606/205784886-739a0c40-be6b-492d-8eb7-1abda2bf3450.png" width="40%" height="40%"  />
+<img src="https://user-images.githubusercontent.com/107566606/205784896-77486446-78ef-4578-b743-f4491ed8b5e5.png" width="40%" height="40%"  />
+
 
 ## 📫 Para contactarme 
 
