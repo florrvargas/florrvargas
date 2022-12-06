@@ -17,6 +17,17 @@ usuario poder adoptarlos según sus necesidades, ya sea por tamaño, edad o raza
 El proyecto cuenta con un pequeño e-commerce para poder comprar artículos básicos para mascotas, un login en donde los usuarios se podran registrar para hacer compras o adoptar, un perfil de admin, donde se pueden ver las ventas realizadas, agregar, editar, borrar productos, usuarios o mascotas.
 Tecnologias usadas: JavaScript , React , Redux , Node.js , Express , CSS , PostgreSQL , Sequelize , GitHub , Trello .
 
+![image](https://user-images.githubusercontent.com/107566606/205770361-ac114c92-0542-41b9-96ae-2c57c57ef959.png)
+![image](https://user-images.githubusercontent.com/107566606/205778130-52f51bbf-9273-4a38![image (1)](https://user-images.githubusercontent.com/107566606/205778134-756133f4-7afe-4ff8-a80d-e99bfbc91f9c.png)
+-ad1a-a0fc6!
+[image(2)](https://user-images.githubusercontent.com/107566606/205778150-1b5fe568-87a6-4f33-81e7-31d0d4ad773c.png)
+4d955b8.png)
+![image(3)](https://user-images.githubusercontent.com/107566606/205778158-ae0dfed8-d56f-4259-8415-2ff7ffc20f60.png)
+![image(4)](https://user-images.githubusercontent.com/107566606/205778180-2aa0010b-2357-4e34-a189-5d7971fbd916.png)
+![image(5)](https://user-images.githubusercontent.com/107566606/205778185-718b5748-0cc7-48a8-b65a-522715173562.png)
+![image(6)](https://user-images.githubusercontent.com/107566606/205778196-4d41d84c-5b7c-4135-bc3b-b06d90740451.png)
+
+
 
 ### Pokémon PI  ![6644-pikachurun](https://user-images.githubusercontent.com/107566606/205767364-3598e585-48df-4ccf-8fa2-ad0858f339cc.gif)
 
