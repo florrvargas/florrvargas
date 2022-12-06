@@ -17,15 +17,11 @@ usuario poder adoptarlos según sus necesidades, ya sea por tamaño, edad o raza
 El proyecto cuenta con un pequeño e-commerce para poder comprar artículos básicos para mascotas, un login en donde los usuarios se podran registrar para hacer compras o adoptar, un perfil de admin, donde se pueden ver las ventas realizadas, agregar, editar, borrar productos, usuarios o mascotas.
 Tecnologias usadas: JavaScript , React , Redux , Node.js , Express , CSS , PostgreSQL , Sequelize , GitHub , Trello .
 
-<img src="https://user-images.githubusercontent.com/107566606/205778315-156d5485-4f58-4dd6-8384-6ad5e5d46ea2.png" width="40%" height="40%"  /> <img src="https://user-images.githubusercontent.com/107566606/205778329-3f1861a8-4a0a-4433-841c-69c56419a426.png" width="40%" height="40%"  />
+<img src="https://user-images.githubusercontent.com/107566606/205778315-156d5485-4f58-4dd6-8384-6ad5e5d46ea2.png" width="40%" height="40%"  />            <img src="https://user-images.githubusercontent.com/107566606/205778329-3f1861a8-4a0a-4433-841c-69c56419a426.png" width="40%" height="40%"  />
 
-<img src="https://user-images.githubusercontent.com/107566606/205778345-2e2467e9-1a46-4f86-9134-b4601efa0481.png" width="40%" height="40%"  />
+<img src="https://user-images.githubusercontent.com/107566606/205778345-2e2467e9-1a46-4f86-9134-b4601efa0481.png" width="40%" height="40%"  />           <img src="https://user-images.githubusercontent.com/107566606/205778352-73bbd211-1e4f-4d25-a151-4941e23aaa96.png" width="40%" height="40%"  />
 
-<img src="https://user-images.githubusercontent.com/107566606/205778352-73bbd211-1e4f-4d25-a151-4941e23aaa96.png" width="40%" height="40%"  />
-
-<img src="https://user-images.githubusercontent.com/107566606/205778361-5227d17f-3aca-4c71-87bd-6fc144d5e757.png" width="40%" height="40%"  />
-
-<img src="https://user-images.githubusercontent.com/107566606/205778363-d62271e2-582e-45ea-9e24-887b1caf311a.png" width="40%" height="40%"  />
+<img src="https://user-images.githubusercontent.com/107566606/205778361-5227d17f-3aca-4c71-87bd-6fc144d5e757.png" width="40%" height="40%"  />          <img src="https://user-images.githubusercontent.com/107566606/205778363-d62271e2-582e-45ea-9e24-887b1caf311a.png" width="40%" height="40%"  />
 
 <img src="https://user-images.githubusercontent.com/107566606/205778368-fb0950e0-0598-4cc0-a85a-ce455f1287a1.png" width="40%" height="40%"  />
 
